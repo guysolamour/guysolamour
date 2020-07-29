@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Cover](https://github.com/guysolamour/guysolamour/blob/master/img/background.jpg)
 
 <!--
