@@ -1,16 +1,15 @@
+
 ![Cover](https://github.com/guysolamour/guysolamour/blob/master/img/background.jpg)
 
-<!--
-**guysolamour/guysolamour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Guy-roland ASSALE (he/him) 🌻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a title="Portfolio, roland-assale.info" href="https://roland-assale.info">Portfolio</a> |
+<a title="Articles" href="https://parlons-informatique.com">Articles</a> |
+ <a title="Twitter Profile" href="https://twitter.com/rolandassale">Twitter</a>
+  
+
+If you like what I do and want me to build more such projects, you can contact me  🥺👉👈
+
+
