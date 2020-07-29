@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Cover](https://github.com/guysolamour/guysolamour/blob/master/img/background.jpg)
+
 <!--
 **guysolamour/guysolamour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
